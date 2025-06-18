@@ -1,5 +1,5 @@
 # JPMorgan Chase & Co. Security Engineering Lab
-## 📜 Certificate of Completion
+##  Certificate of Completion
 
 [![JPMC Certificate](https://github.com/YeranG30/JPMorganChase-Security-Engineering-Lab/blob/main/JPMC_Cybersecurity_Lab.pdf?raw=true)](https://github.com/YeranG30/JPMorganChase-Security-Engineering-Lab/blob/main/JPMC_Cybersecurity_Lab.pdf)
 
